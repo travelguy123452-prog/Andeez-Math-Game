@@ -1,0 +1,6 @@
+{
+  "name": "Math Millionaire — Taiwan 108 Curriculum",
+  "description": "Bilingual Who Wants to Be a Millionaire math quiz show with 15 non-repeating super hard questions aligned with Taiwan's 108 Curriculum across Elementary, Junior High, and High School levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
